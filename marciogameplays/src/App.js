@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import ComponeteNovo from "./ComponeteNovo";
+import {ComponeteNovo} from "./ComponeteNovo";
 
 
 function PrimeiroParag() {
