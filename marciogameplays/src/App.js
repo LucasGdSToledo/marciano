@@ -1,13 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
+import ComponeteNovo from "./ComponeteNovo";
 
-function ComponeteNovo() {
-  return (
-    <div>
-      <h1>Ola, seja bem vindoss</h1>
-    </div>
-  );
-}
 
 function PrimeiroParag() {
   return (
@@ -42,7 +36,7 @@ function App() {
        <PrimeiroParag/>
        <SegundoParag/>
        
-        
+      
       </header>
     </div>
   );
