@@ -1,4 +1,4 @@
-function ComponeteNovo() {
+export function ComponeteNovo() {
     return (
       <div>
         <h1>Ola, seja bem vindoss</h1>
@@ -6,4 +6,4 @@ function ComponeteNovo() {
     );
   }
 
-export default ComponeteNovo; 
+
